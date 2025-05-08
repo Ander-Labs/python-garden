@@ -69,7 +69,9 @@ Python fue creado por Guido van Rossum. La primera versión de Python fue lanzad
 
 - **Desarrollo de Software:** Python se utiliza para construir aplicaciones de software, tanto de escritorio como móviles.
 
-- **Computación Científica y Numérica:** Python se utiliza en investigación científica y computación numérica.Educación: Python es un lenguaje popular para enseñar programación a principiantes.
+- **Computación Científica y Numérica:** Python se utiliza en investigación científica y computación numérica.
+
+- **Educación:** Python es un lenguaje popular para enseñar programación a principiantes.
   :::
 
 ## El Zen de Python

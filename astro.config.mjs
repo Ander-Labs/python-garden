@@ -20,6 +20,16 @@ export default defineConfig({
           label: "Introduccion",
           items: [
             { label: "Introduction", slug: "introduction/introduction" },
+            { label: "Sintaxis básica", slug: "introduction/sintaxis-basica" },
+            {
+              label: "Estructuras de Control",
+              slug: "introduction/estructuras-de-control",
+            },
+            { label: "Funciones", slug: "introduction/funciones" },
+            {
+              label: "Programación Orientada a Objetos",
+              slug: "introduction/programacion-orientada-a-objetos",
+            },
             { label: "Hola Mundo", slug: "introduction/hola-mundo" },
           ],
         },
